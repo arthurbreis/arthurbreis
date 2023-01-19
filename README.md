@@ -13,7 +13,7 @@ Cargo Atual:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="60" height="60" title="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="60" height="60" title="Grafana"/>
-  <img src="https://symbols.getvecta.com/stencil_104/1_zabbix-icon.2cccbef4e8.svg" width="60" height="60" title="Zabbix"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" width="60" height="60" title="Zabbix"/>
 </div>          
 
 ## 🧠 Estudando
@@ -22,8 +22,7 @@ Cargo Atual:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60" title="Kubernetes"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60" title="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" title="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60" title="Javascript"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original.svg" width="60" height="60" title="Golang"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" title="Bash"/>          
 </div>
 
