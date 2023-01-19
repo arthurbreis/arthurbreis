@@ -2,7 +2,7 @@
 # HEY! WELCOME TO MY GITHUB PROFILE 👋
 
 Cargo Atual: 
-## 🧑‍🏭 Analista de Operações de TI na <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fntconsult.com.br%2F&psig=AOvVaw3eMCq7ZwFYtbi4XU34MkEC&ust=1674243406376000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi1mu-w1PwCFQAAAAAdAAAAABAE" width="60" height="60" title="NTConsult"/> prestador na <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-rede-globo%2F&psig=AOvVaw0cO6OIsEcVoVJeeINNswjG&ust=1674243598624000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiNvcmx1PwCFQAAAAAdAAAAABAE" width="60" height="60" title="Docker"/>
+## 🧑‍🏭 Analista de Operações de TI na <img src="https://ntconsult.com.br/wp-content/uploads/2021/08/Logotipo.png" width="120" height="60" title="NTConsult"/> prestador na <img src="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-globo-completo-8-cores-2021-696x364.jpg" width="120" height="60" title="Globo"/>
  
 ## 🎮 Minha Stack
 
