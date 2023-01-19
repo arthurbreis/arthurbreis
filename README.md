@@ -1,7 +1,8 @@
 🇧🇷
 # HEY! WELCOME TO MY GITHUB PROFILE 👋
 
-## 🧑‍🏭 Analista de Infraestrutura de TI no Grupo Cercred
+Cargo Atual: 
+## 🧑‍🏭 Analista de Operações de TI na <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fntconsult.com.br%2F&psig=AOvVaw3eMCq7ZwFYtbi4XU34MkEC&ust=1674243406376000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi1mu-w1PwCFQAAAAAdAAAAABAE" width="60" height="60" title="NTConsult"/> prestador na <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-rede-globo%2F&psig=AOvVaw0cO6OIsEcVoVJeeINNswjG&ust=1674243598624000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiNvcmx1PwCFQAAAAAdAAAAABAE" width="60" height="60" title="Docker"/>
  
 ## 🎮 Minha Stack
 
@@ -26,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" title="Bash"/>          
 </div>
 
- ## 🤩 SO Favorito:
+ ## 🤩 SO do dia-a-dia:
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="60" height="60" title="Fedora 35">
 
