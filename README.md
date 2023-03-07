@@ -2,7 +2,7 @@
 # HEY! WELCOME TO MY GITHUB PROFILE 👋
 
 Cargo Atual: 
-## 🧑‍🏭 Analista de Operações de TI na <img src="https://ntconsult.com.br/wp-content/uploads/2021/08/Logotipo.png" width="120" height="60" title="NTConsult"/> prestador na <img src="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-globo-completo-8-cores-2021-696x364.jpg" width="120" height="60" title="Globo"/>
+## 🧑‍🏭 Analista de Operações de TI na <img src="https://ntconsult.com.br/wp-content/uploads/2021/08/Logotipo.png" width="120" height="90" title="NTConsult"/> prestador na <img src="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-globo-completo-8-cores-2021-696x364.jpg" width="120" height="60" title="Globo"/>
  
 ## 🎮 Minha Stack
 
@@ -37,6 +37,7 @@ Cargo Atual:
 <a href = "mailto:arthur_dos_reis@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
 <div>
 <a href="https://github.com/arthurbreis">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbreis&layout=compact&langs_count=7&theme=dracula"/>
