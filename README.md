@@ -22,8 +22,8 @@ Cargo Atual:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60" title="Kubernetes"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60" title="Jenkins"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original.svg" width="60" height="60" title="Golang"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" title="Bash"/>          
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/spring-original.svg" width="60" height="60" title="Golang"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" title="Bash"/>          
 </div>
 
  ## 🤩 SO do dia-a-dia:
