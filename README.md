@@ -2,7 +2,7 @@
 # HEY! WELCOME TO MY GITHUB PROFILE 👋
 
 Cargo Atual: 
-## 🧑‍🏭 Analista de Operações de TI na <img src="https://ntconsult.com.br/wp-content/uploads/2021/08/Logotipo.png" width="120" height="90" title="NTConsult"/> prestador na <img src="https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-globo-completo-8-cores-2021-696x364.jpg" width="120" height="60" title="Globo"/>
+## 🧑‍🏭 Analista de Operações de TI na NTCONSULT
  
 ## 🎮 Minha Stack
 
@@ -21,7 +21,7 @@ Cargo Atual:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60" title="Kubernetes"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" title="Bash"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" title="Java"/>          
 </div>
 
  ## 🤩 SO do dia-a-dia:
