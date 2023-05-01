@@ -1,6 +1,4 @@
 🇧🇷
-# HEY! WELCOME TO MY GITHUB PROFILE 👋
-
 Cargo Atual: 
 ## 🧑‍🏭 Analista de Operações de TI na NTCONSULT
  
