@@ -1,5 +1,4 @@
 🇧🇷
-Cargo Atual: 
 ## 🧑‍🏭 Analista de Operações de TI na NTCONSULT
  
 ## 🎮 Minha Stack
