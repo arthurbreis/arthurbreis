@@ -21,9 +21,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" title="Java"/>          
 </div>
 
- ## 🤩 SO do dia-a-dia:
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="60" height="60" title="Fedora 35">
+ ## 🤩 SO:
+           
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="60" height="60" title="Ubuntu 22.04">
 
 ## 📫 Contatos
 
