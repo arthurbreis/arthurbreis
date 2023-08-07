@@ -1,5 +1,7 @@
 🇧🇷
-## 🧑‍🏭 Analista de Operações de TI na NTCONSULT
+## Arthur Batista dos Reis
+### Analista de Operações de TI na NTCONSULT
+### Formado em Sistemas de Informação e pós-graduado em Gestão Estratégica da Tecnologia da Informação e Engenharia de Software
  
 ## 🎮 Minha Stack
 
