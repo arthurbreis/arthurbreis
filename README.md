@@ -1,6 +1,6 @@
 🇧🇷
 ## Arthur Batista dos Reis
-### Analista de Operações de TI na NTCONSULT
+### Analista de Infraestrutura na Globo
 ### Formado em Sistemas de Informação e pós-graduado em Gestão Estratégica da Tecnologia da Informação e Engenharia de Software
  
 ## 🎮 Minha Stack
@@ -22,10 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" title="Java"/>          
 </div>
-
- ## 🤩 SO:
-           
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="60" height="60" title="Ubuntu 22.04">
 
 ## 📫 Contatos
 
