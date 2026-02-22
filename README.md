@@ -1,6 +1,6 @@
 🇧🇷
 ## Arthur Batista dos Reis
-### Analista de Infraestrutura na Globo
+### Analista DevOps III na Globo
 ### Formado em Sistemas de Informação e pós-graduado em Gestão Estratégica da Tecnologia da Informação e Engenharia de Software
  
 ## 🎮 Minha Stack
@@ -18,8 +18,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60" title="Kubernetes"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" title="Java"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" title="AWS"/>        
 </div>
 
 ## 📫 Contatos
