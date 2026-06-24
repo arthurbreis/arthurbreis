@@ -1,7 +1,8 @@
 🇧🇷
 ## Arthur Batista dos Reis
-### Analista DevOps III na Globo
-### Formado em Sistemas de Informação e pós-graduado em Gestão Estratégica da Tecnologia da Informação e Engenharia de Software
+### Espec DevOps I - Staff /  na Globo
+### Bacharel em Sistemas de Informação
+### Pós-graduado em Gestão Estratégica da Tecnologia da Informação e Engenharia de Software
  
 ## 🎮 Minha Stack
 
